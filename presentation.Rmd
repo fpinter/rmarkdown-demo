@@ -1,0 +1,13 @@
+---
+title: "Beamer presentation"
+output:
+  beamer_presentation:
+    includes:
+      in_header: beamer_header.tex
+---
+
+# First slide
+
+- First bullet\pause
+- Second bullet\pause
+- Third bullet
