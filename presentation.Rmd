@@ -11,3 +11,12 @@ output:
 - First bullet\pause
 - Second bullet\pause
 - Third bullet
+
+``` {=latex}
+\end{frame}
+\appendix
+\begin{frame}{Appendix}
+```
+
+- First appendix bullet
+- Second appendix bullet
